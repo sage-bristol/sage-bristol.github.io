@@ -85,7 +85,7 @@ function renderFooter() {
       </div>
       <div class="footer-links">
         <a href="${SITE.github}" target="_blank" rel="noopener">GitHub</a>
-        <a href="mailto:${SITE.email}">${SITE.email}</a>
+        ${SITE.email ? `<a href="mailto:${SITE.email}">${SITE.email}</a>` : ""}
       </div>
     </div>
     <div class="footer-credit">

@@ -25,9 +25,9 @@ const SITE = {
   city: "Bristol",
   postcode: "BS8 1SS", 
   country: "United Kingdom",
-  email: "sage-group@bristol.ac.uk", // TODO: set the group's contact email
+  //email: "sage-group@bristol.ac.uk", // TODO: set the group's contact email
   //twitter: "https://twitter.com/sagebristol", // TODO: update or remove
-  github: "https://github.com/geogbristol/QUSS",
+  github: "https://github.com/geogbristol/SAGE",
   // Optional: a proper "google.com/maps/embed?pb=..." URL (from Maps' Share > Embed a map
   // dialog) to override the map auto-generated from the address fields above. A maps.app.goo.gl
   // or maps.google.com/maps?... share link will NOT work here — Google blocks those from
