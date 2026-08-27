@@ -13,6 +13,13 @@ function formatDate(isoDate) {
   });
 }
 
+function linkifyMarkdown(text) {
+  return text.replace(
+    /\[([^\]]+)\]\(([^)]+)\)/g,
+    '<a href="$2" target="_blank" rel="noopener">$1</a>'
+  );
+}
+
 function shuffled(array) {
   const result = array.slice();
   for (let i = result.length - 1; i > 0; i--) {

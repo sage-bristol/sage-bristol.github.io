@@ -47,25 +47,25 @@ const NAV = [
 // Most recent first.
 const NEWS = [
   {
-    date: "2026-07-15",
-    text: "Example: our paper on [topic] has been accepted for publication at [venue].",
+    date: "2026-09-01",
+    text: "Welcome back to the new academic year! SAGE is excited to kick off another year of research and collaboration. We are organizing a series of seminars across the year. Check [here](https://github.com/geogbristol/SAGE) for the schedule and details.",
   },
-  {
-    date: "2026-05-02",
-    text: "Example: [Name] successfully defended their PhD thesis. Congratulations!",
-  },
-  {
-    date: "2026-03-20",
-    text: "Example: the group has been awarded a new grant from [funder] to study [topic].",
-  },
-  {
-    date: "2026-01-10",
-    text: "Example: [Name] joined the group as a postdoctoral researcher. Welcome!",
-  },
-  {
-    date: "2025-11-08",
-    text: "Example: we presented three posters at the [Conference Name] annual meeting.",
-  },
+  // {
+  //   date: "2026-05-02",
+  //   text: "Example: [Name] successfully defended their PhD thesis. Congratulations!",
+  // },
+  // {
+  //   date: "2026-03-20",
+  //   text: "Example: the group has been awarded a new grant from [funder] to study [topic].",
+  // },
+  // {
+  //   date: "2026-01-10",
+  //   text: "Example: [Name] joined the group as a postdoctoral researcher. Welcome!",
+  // },
+  // {
+  //   date: "2025-11-08",
+  //   text: "Example: we presented three posters at the [Conference Name] annual meeting.",
+  // },
 ];
 
 const RESEARCH = [
