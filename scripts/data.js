@@ -94,10 +94,10 @@ const RESEARCH = [
       "global trade and development.",
   },
   {
-    title: "Earth observation",
+    title: "Spatial Statistics",
     description:
-      "Using satellite and remote sensing data to monitor and understand environmental " +
-      "and urban change over time.",
+      "Developing and applying statistical methods for spatially referenced data, from " +
+      "spatial regression and geostatistics to uncertainty and scale effects in geographic analysis.",
   },
   {
     title: "GeoAI",
