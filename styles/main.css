@@ -57,7 +57,7 @@ a:hover {
 .header-inner {
   max-width: var(--max-width);
   margin: 0 auto;
-  padding: 10px 24px;
+  padding: 6px 24px;
   display: flex;
   align-items: center;
   gap: 24px;
@@ -73,7 +73,7 @@ a:hover {
 }
 
 .brand-logo {
-  height: 68px;
+  height: 104px;
   width: auto;
   display: block;
 }
