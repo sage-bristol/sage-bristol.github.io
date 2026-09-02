@@ -57,7 +57,7 @@ a:hover {
 .header-inner {
   max-width: var(--max-width);
   margin: 0 auto;
-  padding: 6px 24px;
+  padding: 14px 24px;
   display: flex;
   align-items: center;
   gap: 24px;
@@ -73,7 +73,7 @@ a:hover {
 }
 
 .brand-logo {
-  height: 104px;
+  height: 64px;
   width: auto;
   display: block;
 }
@@ -419,6 +419,13 @@ h2.centered {
   text-align: right;
 }
 
+.footer-logo {
+  height: 44px;
+  width: auto;
+  align-self: flex-end;
+  margin-top: 6px;
+}
+
 .footer-credit {
   text-align: center;
   color: var(--text-muted);
@@ -439,5 +446,9 @@ h2.centered {
 
   .footer-links {
     text-align: left;
+  }
+
+  .footer-logo {
+    align-self: flex-start;
   }
 }

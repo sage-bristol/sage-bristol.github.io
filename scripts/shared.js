@@ -50,7 +50,7 @@ function renderHeader() {
   el.innerHTML = `
     <div class="header-inner">
       <a class="brand" href="index.html">
-        <img class="brand-logo" src="assets/sage-logo.png?v=3" alt="${SITE.headerLabel}" />
+        <img class="brand-logo" src="assets/sage-logo.png?v=4" alt="${SITE.headerLabel}" />
       </a>
       <a class="partner-logo-link" href="https://www.bristol.ac.uk/" target="_blank" rel="noopener">
         <img class="partner-logo" src="assets/bristol-logo.jpg" alt="University of Bristol" />
@@ -86,6 +86,7 @@ function renderFooter() {
       <div class="footer-links">
         <a href="${SITE.github}" target="_blank" rel="noopener">GitHub</a>
         ${SITE.email ? `<a href="mailto:${SITE.email}">${SITE.email}</a>` : ""}
+        <img class="footer-logo" src="assets/sage-badge.png" alt="${SITE.headerLabel}" />
       </div>
     </div>
     <div class="footer-credit">
