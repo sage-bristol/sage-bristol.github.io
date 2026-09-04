@@ -217,7 +217,12 @@ const PEOPLE = [
   { name: "Mirah Zhang", category: "Alumni" },
 ];
 
-const PEOPLE_CATEGORY_ORDER = ["Core Faculty", "Postdoc Scholar", "PhD Student", "Alumni"];
+const PEOPLE_CATEGORY_ORDER = [
+  "Core Faculty",
+  "Postdoc Scholar",
+  "PhD Student",
+  // "Alumni", // hidden for now, data kept in PEOPLE below
+];
 
 // Shown on the Join Us page as three fixed sections.
 const OPPORTUNITIES = [
