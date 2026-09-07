@@ -14,7 +14,8 @@ const SITE = {
     "The Spatial Analysis and GeoAI (SAGE) research group assesses a wide range of social, " +
     "political, economic, demographic, health, and environmental research questions using " +
     "innovative quantitative and data-driven methods across statistics, spatial analysis, " +
-    "machine learning, and artificial intelligence.",
+    "machine learning, and artificial intelligence. Our research themes are both historical " +
+    "and contemporary.",
   affiliations: [
     { label: "School of Geographical Sciences", href: "https://www.bristol.ac.uk/geography/" },
     { label: "University of Bristol", href: "https://www.bristol.ac.uk/" },
