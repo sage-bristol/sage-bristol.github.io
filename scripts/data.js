@@ -122,7 +122,7 @@ const PEOPLE = [
     name: "Rich Harris",
     category: "Core Faculty",
     url: "https://www.bristol.ac.uk/people/person/Richard-Harris-871b21a9-0f5f-4bc8-9a99-8ace550d9903/",
-    image: "Rich-Harris.jpg",
+    image: "Rich-Harris-2.jpg",
   },
   {
     name: "David Manley",
