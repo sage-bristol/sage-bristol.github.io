@@ -209,7 +209,12 @@ const PEOPLE = [
     image: "Alex-Davis.png",
   },
   { name: "Qingya Cheng", category: "PhD Student" },
-  { name: "Hao Zhang", category: "PhD Student" },
+  {
+    name: "Hao Zhang",
+    category: "PhD Student",
+    url: "https://www.bristol.ac.uk/people/person/Hao-Zhang-ff778149-d031-4b72-80f0-ab9625debd95/",
+    image: "Hao-Zhang.jpg",
+  },
   { name: "Sitong Guo", category: "PhD Student", image: "Sitong-Guo.jpg" },
   { name: "Ruida Guo", category: "PhD Student", image: "Ruida-Guo.jpg" },
   { name: "Killian Mayer", category: "PhD Student", image: "Killian-Mayer.png" },
