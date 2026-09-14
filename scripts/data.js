@@ -269,6 +269,7 @@ const PEOPLE = [
     name: "Chris Bean",
     category: "PhD Student",
     url: "https://research-information.bris.ac.uk/en/persons/chris-bean/",
+    image: "Chris-Bean.jpg",
   },
   { name: "Yujie Liang", category: "PhD Student" },
   {
